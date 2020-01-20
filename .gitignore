@@ -1,0 +1,6 @@
+*.png
+*.bolt
+.idea/
+wtmonitor-client-mac-64
+wtmonitor-client-windows-32.exe
+wtmonitor-client-windows-64.exe
